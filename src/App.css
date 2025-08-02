@@ -1,0 +1,16 @@
+#root{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid lightgray;
+  width: 90vw;
+  margin: 30px;
+  padding: 15px;
+  border-radius: 8px;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
